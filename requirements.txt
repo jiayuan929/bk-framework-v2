@@ -19,3 +19,5 @@ six==1.11.0
 httplib2==0.9.1
 uWSGI==2.0.13.1
 
+# paas3.0 requirement
+gunicorn==19.6.0
